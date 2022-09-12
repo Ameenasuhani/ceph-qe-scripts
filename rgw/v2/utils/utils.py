@@ -34,7 +34,7 @@ def exec_shell_cmd(cmd, debug_info=False):
         )
         out, err = pr.communicate()
         if pr.returncode == 0:
-            log.info("cmd excuted")
+            log.info("cmd executed")
             if out is not None:
                 log.info(out)
                 if debug_info == True:

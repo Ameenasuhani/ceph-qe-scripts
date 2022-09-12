@@ -1,4 +1,4 @@
-""" test_versioning_with_objects - Tests ersioned and non-versionsed buckets.
+""" test_versioning_with_objects - Tests versioned and non-versionsed buckets.
 
 Usage: test_versioning_with_objects.py -c <input_yaml>
 
